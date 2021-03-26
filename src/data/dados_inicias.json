@@ -1,0 +1,191 @@
+{
+    "categorias": [
+      {
+        "titulo": "League of Legends",
+        "link": "https://www.alura.com.br/formacao-front-end",
+        "cor": "#6BD1FF",
+        "link_extra": {
+          "text": "Baixe agora!",
+          "url": "https://play.br.leagueoflegends.com/pt_BR"
+        },
+        "videos": [
+          {
+            "titulo": "Como o Jukes joga League of Legends",
+            "url": "https://www.youtube.com/watch?v=HxUnFsIpUJM"
+          },
+          {
+            "titulo": "Macaco Falante",
+            "url": "https://www.youtube.com/watch?v=tturhK0qJZo"
+          },
+          {
+            "titulo": "O melhor gnar você vê aqui ?",
+            "url": "https://www.youtube.com/watch?v=WcAUtFNiAJY"
+          },
+          {
+            "titulo": "CABO O LOL",
+            "url": "https://www.youtube.com/watch?v=TQn7vQGKXm0"
+          },
+          {
+            "titulo": "Como o Yoda joga League of Legends",
+            "url": "https://www.youtube.com/watch?v=UOQLzoShY7I"
+          },
+          {
+            "titulo": "Essa lux é realmente boa!",
+            "url": "https://www.youtube.com/watch?v=-8vvJ9u9vwo"
+          },
+          {
+            "titulo": "É impossível sair do prata!",
+            "url": "https://www.youtube.com/watch?v=NFAzRqy2RZY"
+          },
+          {
+            "titulo": "Clash com as estrelas!",
+            "url": "https://www.youtube.com/watch?v=4LtYE54lq64"
+          }        
+        ]
+      },
+      {
+        "titulo": "CS:GO",
+        "cor": "#00C86F",
+        "link_extra": {
+          "text": "Baixe agora!",
+          "url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"
+        },
+        "videos": [
+          {
+            "titulo": "Gaules clipes em janeiro!",
+            "url": "https://www.youtube.com/watch?v=gwXpNIQgJLk"
+          },
+          {
+            "titulo": "OS 14 CLIPES DE CS:GO MAIS ASSISTIDOS NA TWITCH BRASILEIRA!",
+            "url": "https://www.youtube.com/watch?v=urXtCyf6alc"
+          },
+          {
+            "titulo": "OS CARA É BOM DEMAIS!",
+            "url": "https://www.youtube.com/watch?v=_Adwa4uBkP0"
+          },
+          {
+            "titulo": "10 VEZES QUE O FALLEN PROVOU SER O AWP MAIS INTELIGENTE DO CS:GO",
+            "url": "https://www.youtube.com/watch?v=ADbpY9_hLFI"
+          }, 
+          {
+            "titulo": "Melhores momentos CS:GO",
+            "url": "https://www.youtube.com/watch?v=Le3EQNFLtww"
+          },
+          {
+            "titulo": "TENTE NÃO RIR COM LIMINHA!",
+            "url": "https://www.youtube.com/watch?v=I5N7uaE5MVA"
+          }
+          
+        ]
+      },
+      {
+        "titulo": "Carros",
+        "cor": "#9cd33b",
+        "videos": [
+          {
+            "titulo": "Avaliação Camaro 2021",
+            "url": "https://www.youtube.com/watch?v=zIRgscPrb5U"
+          },
+          {
+            "titulo": "Ferrari com 25 anos ?",
+            "url": "https://www.youtube.com/watch?v=VkuklDHjrPk"
+          },
+          {
+            "titulo": "Astra vs Corolla",
+            "url": "https://www.youtube.com/watch?v=e7hgr3W-q3s"
+          },
+          {
+            "titulo": "Os carros mais feios do mundo!",
+            "url": "https://www.youtube.com/watch?v=WE5tLWnQCB8&t=486s"
+          },
+          {
+            "titulo": "10 carros quebrou parou",
+            "url": "https://www.youtube.com/watch?v=wNE9EMyLjhI"
+          },
+
+          {
+            "titulo": "10 carros atuais que serão colecionáveis",
+            "url": "https://www.youtube.com/watch?v=EV6GvYbNsZc"
+          }
+        ]
+      },
+      {
+        "titulo": "Músicas boas",
+        "cor": "orange",
+        "videos": [
+          {
+            "titulo": "TIM IMPALA",
+            "url": "https://www.youtube.com/watch?v=i4z_bE0A8xQ"
+          },
+          {
+            "titulo": "BLINDING AZEITONA",
+            "url": "https://www.youtube.com/watch?v=9NqWHAacMBQ"
+          },
+          {
+            "titulo": "Avicii - Waiting For Love",
+            "url": "https://www.youtube.com/watch?v=831t7nBg7UA"
+          },
+          {
+            "titulo": "MC POZE NOS ANOS 80",
+            "url": "https://www.youtube.com/watch?v=WZIGwN-5Ioo"
+          },
+          {
+            "titulo": "Saveiro pega no BREU",
+            "url": "https://www.youtube.com/watch?v=TFdO7oqkMzI"
+          }
+        ]
+      },
+      {
+        "titulo": "Dicas de PC",
+        "cor": "red",
+        "videos": [
+          {
+            "titulo": "O PC GAMER BARATO QUE CONSEGUI MONTAR NA PANDEMIA",
+            "url": "https://www.youtube.com/watch?v=Z_1V4KQle8I"
+          },
+          {
+            "titulo": "A CRISE OBRIGOU TODOS A FALAREM DE XEON, HOJE É INEVITÁVEL",
+            "url": "https://www.youtube.com/watch?v=G0Z-eI14Uow"
+          },
+          {
+            "titulo": "RYZEN 3 4350G jogando SEM PLACA DE VÍDEO",
+            "url": "https://www.youtube.com/watch?v=EJTlPj7lkeg"
+          },
+          {
+            "titulo": "Xbox Series S: melhor que um PC Gamer Baratinho agora?",
+            "url": "https://www.youtube.com/watch?v=6iE9dJk6CGI"
+          },
+          {
+            "titulo": "Vale a pena aquele PC Gamer MUITO barato?",
+            "url": "https://www.youtube.com/watch?v=kvcQbLe6zCY"
+          }
+        ]
+      },
+      {
+        "titulo": "Santa Cruz",
+        "cor": "#000",
+        "videos": [
+          {
+            "titulo": "Torcida do Santa Cruz cantando dá-lhe, dá-lhe, dá-lhe Santa",
+            "url": "https://www.youtube.com/watch?v=wmp2TE3J-KA"
+          },
+          {
+            "titulo": "Melhores momentos - Torcida Inferno Cora",
+            "url": "https://www.youtube.com/watch?v=iG6Ncfuxvmk"
+          },
+          {
+            "titulo": "Conheça a História do Santa Cruz - Entenda Essa Paixão Que Move Multidões desde 1914",
+            "url": "https://www.youtube.com/watch?v=OQdzHDJLoq4"
+          },
+          {
+            "titulo": "SANTA CRUZ Vence o Náutico na Semifinal do PE - 2016",
+            "url": "https://www.youtube.com/watch?v=WI-wRyI4prE"
+          },
+          {
+            "titulo": "Globo Esporte/PE TRI CAMPEÃO! Dentro da ilha Tiago Cardoso fecha o gol é Caça rato acaba com o Sport",
+            "url": "https://www.youtube.com/watch?v=lHfldKJ2w5A"
+          }
+        ]
+      }
+    ]
+  }
